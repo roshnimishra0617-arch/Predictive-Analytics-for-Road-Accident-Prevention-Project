@@ -123,7 +123,7 @@ Predictive_Analysis_Project/
 
 ## 👥 Contributors (Team)
 
-- **Roshni Mishra** – Project Developer
+- **Roshni Raju Mishra** – Project Developer
 
 ---
 
